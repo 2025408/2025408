@@ -4,7 +4,7 @@
 
 ## Sobre Mim
 
-Eu sou a Andrea Nora, e estou em uma jornada para conseguir juntar as duas áreas **Área Financeira** e **Data Science**.
+Eu sou a Andrea Nora e estou em uma jornada para conseguir juntar as duas áreas: **Área Financeira** e **Data Science**.
 
 Minha experiência na área financeira me deu sólidas bases em **Análise de Contas a Pagar/Receber e Tesouraria**, com foco em fluxo de caixa e gestão.
 
